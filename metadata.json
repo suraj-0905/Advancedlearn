@@ -1,0 +1,8 @@
+{
+  "name": "AdaptiveLearn",
+  "description": "AI-Powered Personalized Learning System for B.Tech CSE Students. Learn smarter. Adapt faster. Retain longer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
